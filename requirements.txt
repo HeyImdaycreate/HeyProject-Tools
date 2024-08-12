@@ -1,0 +1,14 @@
+requests
+colorama
+faker
+bs4
+phonenumbers
+time
+random
+os
+sys
+subprocess
+pprint
+progress
+socket
+urllib
